@@ -1,3 +1,5 @@
+Fork de https://github.com/marcosandrade22/sistema-de-estoque-web
+
 # Sistema de estoque WEB colabolativo
 Instalação
 
